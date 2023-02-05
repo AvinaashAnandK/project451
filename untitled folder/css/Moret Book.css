@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Moret Book';
+	src: url(../../assets/fonts/Moret-Book.woff2) format('woff2'),
+	url(../../assets/fonts/Moret-Book.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Moret Book';
+	src: url(../../assets/fonts/Moret-BookOblique.woff2) format('woff2'),
+	url(../../assets/fonts/Moret-BookOblique.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}

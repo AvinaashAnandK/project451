@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Mier A Hair';
+	src: url(../../assets/fonts/MierA-Hair.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Hair.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Hair.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Hair.woff) format('woff'),
+	url(../../assets/fonts/MierA-Hair.ttf) format('truetype');
+	font-weight: 200;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A Hair';
+	src: url(../../assets/fonts/MierA-HairItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-HairItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-HairItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-HairItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-HairItalic.ttf) format('truetype');
+	font-weight: 200;
+	font-style: italic;
+	font-display: auto;
+}

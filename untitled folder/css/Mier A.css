@@ -1,0 +1,167 @@
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Thin.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Thin.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Thin.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Thin.woff) format('woff'),
+	url(../../assets/fonts/MierA-Thin.ttf) format('truetype');
+	font-weight: 100;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-ThinItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ThinItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ThinItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-ThinItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-ThinItalic.ttf) format('truetype');
+	font-weight: 100;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Light.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Light.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Light.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Light.woff) format('woff'),
+	url(../../assets/fonts/MierA-Light.ttf) format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-LightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-LightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-LightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-LightItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-LightItalic.ttf) format('truetype');
+	font-weight: 300;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Regular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Regular.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Regular.woff) format('woff'),
+	url(../../assets/fonts/MierA-Regular.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Italic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Italic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Italic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Italic.woff) format('woff'),
+	url(../../assets/fonts/MierA-Italic.ttf) format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Bold.woff) format('woff'),
+	url(../../assets/fonts/MierA-Bold.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-BoldItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-BoldItalic.ttf) format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-ExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-ExtraBold.woff) format('woff'),
+	url(../../assets/fonts/MierA-ExtraBold.ttf) format('truetype');
+	font-weight: 800;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-ExtraBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ExtraBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-ExtraBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-ExtraBoldItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-ExtraBoldItalic.ttf) format('truetype');
+	font-weight: 800;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Heavy.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Heavy.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Heavy.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Heavy.woff) format('woff'),
+	url(../../assets/fonts/MierA-Heavy.ttf) format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-Black.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Black.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Black.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Black.woff) format('woff'),
+	url(../../assets/fonts/MierA-Black.ttf) format('truetype');
+	font-weight: 900;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-BlackItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BlackItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BlackItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-BlackItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-BlackItalic.ttf) format('truetype');
+	font-weight: 900;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A';
+	src: url(../../assets/fonts/MierA-HeavyItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-HeavyItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-HeavyItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-HeavyItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-HeavyItalic.ttf) format('truetype');
+	font-weight: 900;
+	font-style: italic;
+	font-display: auto;
+}

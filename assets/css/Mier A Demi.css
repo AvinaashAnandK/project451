@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Mier A Demi';
+	src: url(../../assets/fonts/MierA-DemiBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-DemiBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-DemiBold.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-DemiBold.woff) format('woff'),
+	url(../../assets/fonts/MierA-DemiBold.ttf) format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A Demi';
+	src: url(../../assets/fonts/MierA-DemiBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-DemiBoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-DemiBoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-DemiBoldItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-DemiBoldItalic.ttf) format('truetype');
+	font-weight: 600;
+	font-style: italic;
+	font-display: auto;
+}

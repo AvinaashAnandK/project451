@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Mier A Book';
+	src: url(../../assets/fonts/MierA-Book.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Book.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-Book.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-Book.woff) format('woff'),
+	url(../../assets/fonts/MierA-Book.ttf) format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'Mier A Book';
+	src: url(../../assets/fonts/MierA-BookItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BookItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MierA-BookItalic.woff2) format('woff2'),
+	url(../../assets/fonts/MierA-BookItalic.woff) format('woff'),
+	url(../../assets/fonts/MierA-BookItalic.ttf) format('truetype');
+	font-weight: 500;
+	font-style: italic;
+	font-display: auto;
+}
